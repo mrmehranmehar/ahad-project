@@ -38,8 +38,8 @@ function Footer() {
          
           <div>
             <h3 className="text-lg font-bold text-white mb-4">Contact Us</h3>
-            <p>Email: <Link href="mailto:contact@c2tec.com" className="hover:text-white">habibaashrafrao34@gmail.com</Link></p>
-            <p>Phone: <span className="hover:text-white">0307-2111404</span></p>
+            <p>Email: <Link href="mailto:contact@c2tec.com" className="hover:text-white"> Mrahadmehar5011@gmail.com</Link></p>
+            <p>Phone: <span className="hover:text-white">0328 2346728</span></p>
           </div>
         </div>
         <p className="flex justify-center p-2">© 2024 C2tec - Master the Craft of Coding.</p>
