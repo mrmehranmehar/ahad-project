@@ -27,7 +27,7 @@ function Footer() {
             <h3 className="text-lg font-bold text-white mb-4">Follow Us</h3>
             <ul>
               <li><Link href="https://www.tiktok.com/@aiwork1?_t=8qmanIiaZqz&_r=1" className="hover:text-white">TikTok</Link></li>
-              <li><Link href="https://www.linkedin.com/in/habiba-rao-233b5032b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="hover:text-white">LinkedIn</Link></li>
+              <li><Link href="" className="hover:text-white">LinkedIn</Link></li>
               <li><Link href="https://github.com/mrmehranmehar" className="hover:text-white">Github</Link></li>
               <li><Link href="" className="hover:text-white">Portfolio</Link></li>
               <li><Link href="https://www.instagram.com/itsmehar1409/profilecard/?igsh=bnBhM2llcmpzNW1u" className="hover:text-white">Instagram</Link></li>
